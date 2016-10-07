@@ -1,0 +1,38 @@
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Ac228/Ac228.ntuple.root Ac228 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Ar39/Ar39.ntuple.root Ar39 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Bi212/Bi212.ntuple.root Bi212 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Bi214/Bi214.ntuple.root Bi214 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/C14/C14.ntuple.root C14 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/K40/K40.ntuple.root K40 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Pa234m/Pa234m.ntuple.root Pa234m 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Pb212/Pb212.ntuple.root Pb212 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Pb214/Pb214.ntuple.root Pb214 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Po212/Po212.ntuple.root Po212 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Po214/Po214.ntuple.root Po214 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Po216/Po216.ntuple.root Po216 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Po218/Po218.ntuple.root Po218 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Ra224/Ra224.ntuple.root Ra224 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Ra226/Ra226.ntuple.root Ra226 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Ra228/Ra228.ntuple.root Ra228 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Rn220/Rn220.ntuple.root Rn220 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Rn222/Rn222.ntuple.root Rn222 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Th228/Th228.ntuple.root Th228 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Th230/Th230.ntuple.root Th230 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Th232/Th232.ntuple.root Th232 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Th234/Th234.ntuple.root Th234 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Tl208/Tl208.ntuple.root Tl208 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Tl210/Tl210.ntuple.root Tl210 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/U234/U234.ntuple.root U234 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/U238/U238.ntuple.root U238 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Pep/PEP.ntuple.root PEP 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Be7/Be7.ntuple.root Be7 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/B8/B8.ntuple.root B8 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Cno/CNO.ntuple.root CNO 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Bi210/Bi210.ntuple.root Bi210 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Pb210/Pb210.ntuple.root Pb210 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Po210/Po210.ntuple.root Po210 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Bi212/BiPo212.ntuple.root BiPo212 
+/data/snoplus/OfficialProcessing/production_4_5/Solar/Bi214/BiPo214.ntuple.root BiPo214 
+
+
+
